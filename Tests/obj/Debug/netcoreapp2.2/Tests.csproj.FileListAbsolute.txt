@@ -1,0 +1,14 @@
+/Users/elliothurdiss/work/code/MemoryManagement/Tests/bin/Debug/netcoreapp2.2/Tests.deps.json
+/Users/elliothurdiss/work/code/MemoryManagement/Tests/bin/Debug/netcoreapp2.2/Tests.runtimeconfig.json
+/Users/elliothurdiss/work/code/MemoryManagement/Tests/bin/Debug/netcoreapp2.2/Tests.runtimeconfig.dev.json
+/Users/elliothurdiss/work/code/MemoryManagement/Tests/bin/Debug/netcoreapp2.2/Tests.dll
+/Users/elliothurdiss/work/code/MemoryManagement/Tests/bin/Debug/netcoreapp2.2/Tests.pdb
+/Users/elliothurdiss/work/code/MemoryManagement/Tests/bin/Debug/netcoreapp2.2/MemoryManagement.dll
+/Users/elliothurdiss/work/code/MemoryManagement/Tests/bin/Debug/netcoreapp2.2/MemoryManagement.pdb
+/Users/elliothurdiss/work/code/MemoryManagement/Tests/obj/Debug/netcoreapp2.2/Tests.csprojAssemblyReference.cache
+/Users/elliothurdiss/work/code/MemoryManagement/Tests/obj/Debug/netcoreapp2.2/Tests.csproj.CoreCompileInputs.cache
+/Users/elliothurdiss/work/code/MemoryManagement/Tests/obj/Debug/netcoreapp2.2/Tests.AssemblyInfoInputs.cache
+/Users/elliothurdiss/work/code/MemoryManagement/Tests/obj/Debug/netcoreapp2.2/Tests.AssemblyInfo.cs
+/Users/elliothurdiss/work/code/MemoryManagement/Tests/obj/Debug/netcoreapp2.2/Tests.csproj.CopyComplete
+/Users/elliothurdiss/work/code/MemoryManagement/Tests/obj/Debug/netcoreapp2.2/Tests.dll
+/Users/elliothurdiss/work/code/MemoryManagement/Tests/obj/Debug/netcoreapp2.2/Tests.pdb
