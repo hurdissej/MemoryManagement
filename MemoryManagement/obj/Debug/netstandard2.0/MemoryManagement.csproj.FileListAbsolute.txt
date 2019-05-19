@@ -1,9 +1,0 @@
-/Users/elliothurdiss/work/code/MemoryManagement/MemoryManagement/bin/Debug/netstandard2.0/MemoryManagement.deps.json
-/Users/elliothurdiss/work/code/MemoryManagement/MemoryManagement/bin/Debug/netstandard2.0/MemoryManagement.dll
-/Users/elliothurdiss/work/code/MemoryManagement/MemoryManagement/bin/Debug/netstandard2.0/MemoryManagement.pdb
-/Users/elliothurdiss/work/code/MemoryManagement/MemoryManagement/obj/Debug/netstandard2.0/MemoryManagement.csprojAssemblyReference.cache
-/Users/elliothurdiss/work/code/MemoryManagement/MemoryManagement/obj/Debug/netstandard2.0/MemoryManagement.csproj.CoreCompileInputs.cache
-/Users/elliothurdiss/work/code/MemoryManagement/MemoryManagement/obj/Debug/netstandard2.0/MemoryManagement.AssemblyInfoInputs.cache
-/Users/elliothurdiss/work/code/MemoryManagement/MemoryManagement/obj/Debug/netstandard2.0/MemoryManagement.AssemblyInfo.cs
-/Users/elliothurdiss/work/code/MemoryManagement/MemoryManagement/obj/Debug/netstandard2.0/MemoryManagement.dll
-/Users/elliothurdiss/work/code/MemoryManagement/MemoryManagement/obj/Debug/netstandard2.0/MemoryManagement.pdb
