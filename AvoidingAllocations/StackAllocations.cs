@@ -33,7 +33,7 @@ namespace AvoidingAllocations
 
     }
 
-    /// This will only work if the containing struct contains no value types
+    /// This will only work if the containing struct contains only value types
     public struct Message 
     {
         private readonly int _message;
