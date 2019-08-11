@@ -10,7 +10,12 @@ namespace Tests
     {
         static void Main(string[] args)
         {
-            var summary = RunBoxingBenchmarks();
+            var summary = RunAllocationBenchmarks();
+        }
+
+        private static BenchmarkDotNet.Reports.Summary RunAllocationBenchmarks()
+        {
+            return BenchmarkRunner.Run<StackAllocationBenchmarks>();
         }
 
         private static BenchmarkDotNet.Reports.Summary RunBoxingBenchmarks()

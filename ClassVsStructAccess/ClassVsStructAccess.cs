@@ -1,5 +1,3 @@
-//TODO DO
-
 using System; 
 
 namespace ClassVsStructAccess 
